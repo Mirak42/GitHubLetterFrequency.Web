@@ -1,0 +1,1 @@
+C:\Users\karim\source\repos\GitHubLetterFrequency.Web\obj\Debug\githubletterfrequency.web.esproj.CoreCompileInputs.cache
